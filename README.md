@@ -12,4 +12,5 @@ Login page
 
 Add task
 
-![addTask screenshot](https://github.com/user-attachments/assets/5adcca56-a0fa-442d-b0df-5f84900e0e6c)
+![addTask screenshot](https://github.com/user-attachments/assets/42fc1c8e-7e6d-4d5b-8e7a-ce51a2637a82)
+
